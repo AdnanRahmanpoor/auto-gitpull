@@ -4,6 +4,7 @@
   "description": "A VS Code extension that automatically `git pull` when a project is opened in VS Code & on every file open.",
   "version": "1.0.0",
   "author": {"name": "Adnan Rp", "email": "adnan.rp359@gmail.com", "url": "https://github.com/AdnanRahmanpoor"},
+  "repository": {"url": "https://github.com/AdnanRahmanpoor/auto-gitpull"},
   "icon": "~/src/GitPull128px.png",
   "engines": {
     "vscode": "^1.94.0"
